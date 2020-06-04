@@ -1,0 +1,11 @@
+# Mac OS X
+.DS_Store
+
+# IDE
+.idea/
+
+*.log
+*.pid
+
+# Node.js
+node_modules/
