@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.10.2",
-    "@babel/register": "^7.10.1"
+    "@babel/core": "^8.0.1",
+    "@babel/register": "^8.0.1"
   },
   "dependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2"
